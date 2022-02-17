@@ -1,4 +1,4 @@
-### Hi I'm @riyachouhan7 👋
+### Hi, I'm Riya 👋
 
 - 🔭 I’m interested in Programming, DSA, Website and Android Development.
 - 🌱 I’m currently learning DSA, Website Development.
