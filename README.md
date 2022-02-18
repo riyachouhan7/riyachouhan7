@@ -8,7 +8,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" align="right"/>
 
 🎓 &nbsp;I'm currently sophomore at NIT Agartala, pursuing Electrical Engineering.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, PHP and Bootstrap. Currently exploring Website and Android development.\
