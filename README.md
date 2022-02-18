@@ -11,8 +11,8 @@
 <img alt="Night Coding" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" align="right"/>
 
 🎓 &nbsp;I'm currently sophomore at NIT Agartala, pursuing Electrical Engineering.\
-💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, PHP and Bootstrap. Currently exploring Website and Android development.\
-🌱 &nbsp;I'm on track for learning Data Structures and Algorithms.\
+💡 &nbsp;I'm on track for learning Data Structures and Algorithms.\
+🌱 &nbsp;Currently exploring Website and Android development and interested in collaborating for projects.\
 ✉️ &nbsp;You can shoot me an email at riyachouhan.ee@gmail.com! I'll try to respond as soon as I can.
 
 
