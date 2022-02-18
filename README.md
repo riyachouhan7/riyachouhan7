@@ -6,7 +6,7 @@
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=riyachouhan7&color=brightgreen">
 
 
-## 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me :-
 
 <img alt="Night Coding" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" align="right"/>
 
@@ -16,22 +16,25 @@
 ✉️ &nbsp;You can shoot me an email at riyachouhan.ee@gmail.com! I'll try to respond as soon as I can.
 
 
-### Languages and Tools:
+### Languages and Tools :-
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff">  <img src="https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=fff"> <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">  <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff"> <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff"> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff"> <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff">
 
+### Total Contributions and Streak :-
 <p align="center">
     <a href="https://github.com/riyachouhan7/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=riyachouhan7&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 My Github Stats :-
 
   <br/>
     <a href="https://github.com/riyachouhan7/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=riyachouhan7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/riyachouhan7/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyachouhan7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
+
+## Contribution Graph :-
 
 <br/>
 <br/>
