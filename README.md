@@ -17,7 +17,7 @@
 
 
 ### Languages and Tools:
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff">  <img src="https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=fff"> <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">  <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff"> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff">
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff">  <img src="https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=fff"> <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">  <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff"> <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff"> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff"> <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff">
 
 <p align="center">
     <a href="https://github.com/riyachouhan7/github-readme-streak-stats">
