@@ -12,7 +12,7 @@
 
 🎓 &nbsp;I'm currently sophomore at NIT Agartala, pursuing Electrical Engineering.\
 💡 &nbsp;I'm on track for learning Data Structures and Algorithms.\
-🌱 &nbsp;Currently exploring Website and Android development and interested in collaborating for projects.\
+🌱 &nbsp;Currently exploring Website and Android development and open to collaboration for projects.\
 ✉️ &nbsp;You can shoot me an email at riyachouhan.ee@gmail.com! I'll try to respond as soon as I can.
 
 
