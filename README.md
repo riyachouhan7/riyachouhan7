@@ -1,6 +1,12 @@
 ### Hi, I'm Riya 👋
 
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/riya_chouhan7?label=Follow)](https://twitter.com/intent/follow?screen_name=riya_chouhan7)
+[![Linkedin: Riya](https://img.shields.io/badge/-KR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumari-riya-110073201)](https://www.linkedin.com/in/kumari-riya-110073201)
+![GitHub followers](https://img.shields.io/github/followers/riyachouhan7?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=riyachouhan7&color=brightgreen">
+
+
 ## 👨🏻‍💻 &nbsp;About Me :-
 
 
@@ -10,12 +16,6 @@
 💡 &nbsp;I'm on track for learning Data Structures and Algorithms.\
 🌱 &nbsp;Currently exploring Website and Android development and open to collaboration for projects.\
 ✉️ &nbsp;You can shoot me an email at riyachouhan.ee@gmail.com! I'll try to respond as soon as I can.
-
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/riya_chouhan7?label=Follow)](https://twitter.com/intent/follow?screen_name=riya_chouhan7)
-[![Linkedin: Riya](https://img.shields.io/badge/-KR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumari-riya-110073201)](https://www.linkedin.com/in/kumari-riya-110073201)
-![GitHub followers](https://img.shields.io/github/followers/riyachouhan7?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=riyachouhan7&color=brightgreen">
 
 
 ### Languages and Tools :-
