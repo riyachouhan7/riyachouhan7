@@ -10,7 +10,8 @@
 ## 👨🏻‍💻 &nbsp;About Me :-
 
 
-<img alt="Night Coding" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" align="right"/>
+<img alt="NightCoding" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" align="right"/>
+
 
 🎓 &nbsp;I'm currently sophomore at NIT Agartala, pursuing Electrical Engineering.\
 💡 &nbsp;I'm on track for learning Data Structures and Algorithms.\
