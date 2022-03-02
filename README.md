@@ -31,6 +31,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
 - 🛢 &nbsp;
