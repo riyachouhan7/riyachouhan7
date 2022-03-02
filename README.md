@@ -40,14 +40,15 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
- 
+
+## 📊 My Github Stats 
+
 <p align="center">
   <a href="https://github.com/riyachouhan7/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyachouhan7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
     </p>
 
 
-## 📊 My Github Stats 
 <p align="center">
   <br/>
     <a href="https://github.com/riyachouhan7/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=riyachouhan7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -63,9 +64,7 @@
 
 <br/>
 <br/>
-
 <a href="https://github.com/riyachouhan7/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=riyachouhan7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
