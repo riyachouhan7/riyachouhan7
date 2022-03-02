@@ -70,7 +70,7 @@
 <br/>
 
 
-## Watch my contributions get eaten by a snake 🐍
+## Watch a 🐍 snake eating my contributions
 
 ![snake gif](https://github.com/riyachouhan7/riyachouhan7/blob/output/github-contribution-grid-snake.gif)
 
