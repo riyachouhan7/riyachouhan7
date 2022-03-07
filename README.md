@@ -1,9 +1,8 @@
 ### Hi, I'm Riya 👋
 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/riya_chouhan7?label=Follow)](https://twitter.com/intent/follow?screen_name=riya_chouhan7)
-[![Linkedin: Riya](https://img.shields.io/badge/-KR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumari-riya-110073201)](https://www.linkedin.com/in/kumari-riya-110073201)
 ![GitHub followers](https://img.shields.io/github/followers/riyachouhan7?label=Follow&style=social)
+[![Linkedin: Riya](https://img.shields.io/badge/-KR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumari-riya-110073201)](https://www.linkedin.com/in/kumari-riya-110073201)
+[![Twitter Follow](https://img.shields.io/twitter/follow/riya_chouhan7?label=Follow)](https://twitter.com/intent/follow?screen_name=riya_chouhan7)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=riyachouhan7&color=brightgreen">
 
 
