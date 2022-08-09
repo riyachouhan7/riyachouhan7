@@ -10,7 +10,7 @@
 <img alt="NightCoding" src="https://c.tenor.com/RZ1Cq8RF_FwAAAAC/anime-crazy.gif" align="right"/>
 
 
-🎓 &nbsp;I'm currently sophomore at NIT Agartala, pursuing Electrical Engineering.\
+🎓 &nbsp;I'm Electrical Engineering undergrad at NIT Agartala.\
 💡 &nbsp;I'm on track for learning Data Structures and Algorithms.\
 ✉️ &nbsp;You can shoot me an email at riyachouhan.ee@gmail.com! I'll try to respond as soon as I can.
 
