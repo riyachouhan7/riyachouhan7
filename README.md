@@ -10,8 +10,7 @@
 <img alt="NightCoding" src="https://c.tenor.com/RZ1Cq8RF_FwAAAAC/anime-crazy.gif" align="right"/>
 
 
-🎓 &nbsp;I'm Electrical Engineering undergrad at NIT Agartala.\
-💡 &nbsp;I'm on track for learning Data Structures and Algorithms.\
+🎓 &nbsp;I'm electrical engineering undergrad at NIT Agartala.\
 ✉️ &nbsp;You can shoot me an email at riyachouhan.ee@gmail.com! I'll try to respond as soon as I can.
 
 
@@ -36,9 +35,9 @@
   <a href="https://github.com/riyachouhan7/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyachouhan7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
     </p>
-
-
-<p align="center">
+    
+    
+ <p align="center">
   <br/>
     <a href="https://github.com/riyachouhan7/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=riyachouhan7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p> 
@@ -51,11 +50,7 @@
 </p> 
 
 
-<br/>
-<br/>
-<a href="https://github.com/riyachouhan7/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=riyachouhan7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-<br/>
+
 
 
 ## Watch a 🐍 eating my contributions
